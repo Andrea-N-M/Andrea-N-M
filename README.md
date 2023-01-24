@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello and Welcome 
 
-<!--
-**Andrea-N-M/Andrea-N-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- Hello, my name is **Andrea**. 
+##### I currently live in Jordan. I'm from the United States and have 4 siblings. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[Here is a link to google](google.com)
+
+
+### Here is a list: 
+1. Hi
+2. Hello 
+3. Hey 
+
+Here is an image:
+![rusty_porch](https://user-images.githubusercontent.com/123292327/214228949-5a40ce3f-af82-4705-b613-5cb8619c9c3a.jpg)
+![rusty_grass](https://user-images.githubusercontent.com/123292327/214229527-f25c9423-05b9-40f7-9c92-e5eb0cd859eb.jpeg)
+
